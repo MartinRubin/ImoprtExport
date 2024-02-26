@@ -1,0 +1,5 @@
+﻿2.2.4
+Changelog:
+-Fixed texture format assignment regression issue.
+-Added 3DS Max alternative diffuse texture support.
+-Mesh system changes. Using simpler Unity mesh API to reduce memory usage.
